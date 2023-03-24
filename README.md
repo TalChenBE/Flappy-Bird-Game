@@ -28,7 +28,7 @@ git clone git@github.com:TalChenBE/Flappy-Bird-Game.git
 ## Running the Game
 To run the game, simply press the Play button in Unity editor or build the game for your preferred platform.
 
-You can also download the FlappyBirde.exe file to play the game.
+You can also build the project and you get an exe file that you can play with. You can find the steps of how to build a project in the [Unity Documentation](https://docs.unity3d.com/Manual/PublishingBuilds.html)
 
 ## Contributing
 If you would like to contribute to the project, please fork the repository and create a pull request.
